@@ -1,4 +1,5 @@
 step 1- Clone this project
+
 step 2- Make Database and write its name "customers"
 step 3- Run migration (php artisan migrate) on command promt
 step 4- Run seeding (php artisan db:seed) on command promt
